@@ -5,15 +5,15 @@ Hello, everyone. Welcome to my CODSOFT internship repository! Here you will find
 
 Tasks Completed:
 
-To-Do List Description: A command-line application in Python that allows adding, deleting, viewing, updating, and efficiently tracking tasks.  File: TO-DO LIST.py
+To-Do List Description: A command-line application in Python that allows adding, deleting, viewing, updating, and efficiently tracking tasks.  File: todolist.py
 
-Calculator Description: Basic calculator functionality with arithmetic operations. File: CALCULATOR.py
+Calculator Description: Basic calculator functionality with arithmetic operations. File: calculator.py
 
-Password Generator Description: It generates strong and random passwords based on user preferences. In this program, a user can determine the length of the password and generate a random, strong password. File: PASSWORD GENERATOR.py
+Password Generator Description: It generates strong and random passwords based on user preferences. In this program, a user can determine the length of the password and generate a random, strong password. File: passwordgenerate.py
 
-Rock-Paper-Scissors Game Description: A classic game of rock, paper, scissors against the computer. Here, the score of the user and computer will also be calculated. File: Rock-Paper-Scissors Game.py
+Rock-Paper-Scissors Game Description: A classic game of rock, paper, scissors against the computer. Here, the score of the user and computer will also be calculated. File: rockgame.py
 
-Contact Book Description: A command-line application that allows adding, deleting, viewing, updating, and efficiently searching contacts. File: Contact Book.py
+Contact Book Description: A command-line application that allows adding, deleting, viewing, updating, and efficiently searching contacts. File: contact.py
 
 Repository Structure: TO-DO LIST.py: Contains files related to the To-Do List task. CALCULATOR.py: Contains files related to the Calculator task. Password Generator: This file contains files related to the Password Generator task. Rock-Paper-Scissors Games: Contains files related to the Rock-Paper-Scissors Game task. Contact Book.py contains files related to the Contact Book task.
 
